@@ -1,0 +1,1 @@
+male.n.02 Name "张三" go.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now hospital.n.01

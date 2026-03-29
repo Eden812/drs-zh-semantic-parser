@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.DS_Store
+
+models/*
+!models/README.md
+
+outputs/
+static/graphs/
+
+pred_valid_fullft.sbn
+pred_valid_lora_struct.sbn
